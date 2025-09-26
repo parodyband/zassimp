@@ -1,0 +1,19 @@
+.{
+    .name = .zassimp,
+    .version = "0.1.2",
+    .fingerprint = 0x16748df00d14dca7,
+    .minimum_zig_version = "0.15.1",
+    .dependencies = .{
+        .assimp = .{
+            .url = "https://github.com/parodyband/assimp/archive/8c92bc97241a2bf9b6dcb0fbb8af80b798e37b38.tar.gz",
+            .hash = "1220e926b4980a1a1d5b43b040384fb3624e35580764c62e76a0dc471c13341a7289",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "examples",
+        "README.md",
+    },
+}
