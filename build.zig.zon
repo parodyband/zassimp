@@ -6,7 +6,7 @@
     .dependencies = .{
         .assimp = .{
             .url = "https://github.com/parodyband/assimp/archive/refs/heads/experimental-mac-support.tar.gz",
-            .hash = "1220c999ac05717830d5e5a711bf19d8f688a571913f84bb8ee77929bbba89645749",
+            .hash = "122026faf3939e27e1c2f9b3d79018665e12bbab71990b3171044522b8331fedc2f0",
         },
     },
     .paths = .{
